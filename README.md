@@ -1,2 +1,2 @@
 # Automated-Darts-Scoring
-IN PROGRESS
+IN PROGRESS - Webapp for darts scoring
